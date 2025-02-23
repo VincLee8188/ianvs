@@ -1,0 +1,2 @@
+rank,algorithm,score,paradigm,basemodel,time,url
+1,simple_qa_singletask_learning,6.24,singletasklearning,gen,2025-02-23 21:53:35,./examples/llm_finance_qa/workspace/benchmarkingjob/simple_qa_singletask_learning/71c42984-f1ed-11ef-b930-d59c724d9192
