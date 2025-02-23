@@ -15,19 +15,11 @@
 from __future__ import absolute_import, division, print_function
 
 import os
-import tempfile
-import time
-import zipfile
 import logging
-
-import numpy as np
-from sedna.common.config import Context
 from sedna.common.class_factory import ClassType, ClassFactory
-
-
 from transformers import AutoModelForCausalLM, AutoTokenizer
-device = "cuda" # the device to load the model onto
 
+device = "cuda" # the device to load the model onto
 
 logging.disable(logging.WARNING)
 
@@ -41,16 +33,15 @@ class BaseModel:
 
     def __init__(self, **kwargs):
         self.model = AutoModelForCausalLM.from_pretrained(
-            "/home/icyfeather/models/Qwen2-0.5B-Instruct",
+            "Qwen/Qwen2-0.5B-Instruct",
             torch_dtype="auto",
             device_map="auto"
         )
-        self.tokenizer = AutoTokenizer.from_pretrained("/home/icyfeather/models/Qwen2-0.5B-Instruct")
+        self.tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2-0.5B-Instruct",)
 
     def train(self, train_data, valid_data=None, **kwargs):
         print("BaseModel doesn't need to train")
         
-
     def save(self, model_path):
         print("BaseModel doesn't need to save")
 

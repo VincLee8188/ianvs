@@ -1,0 +1,252 @@
+[
+  {
+    "sample_index": 1,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      71
+    ],
+    "context": "RISK MANAGEMENT\n\nThe Bank’s credit review framework utilizes its expertise developed in making loans for the AFF industries and conducting globally diversified investments. The Bank is striving to strengthen its credit review capability for the evaluation of business viability utilizing its proprietary analysis methods for each business type/project and deliver a consulting function leveraging its research on the food and agricultural industry.\n\nIn credit portfolio management, the Bank is focused on managing credit concentration risk as investments and loan projects have become larger in scale and more globalized. The Bank is controlling credit concentration risk through cross-divisional approaches over investments and finance in its “food and agriculture business” and “investment business,” by setting a soft limit and monitoring under the Credit Limit Management System and hedging by loan liquidation.\n\nCapital Adequacy Management\nCapital Adequacy Ratio Based on Self-Assessment Based on the Basel Regulations\nInternal Rating System\nIndividual Credit Loan Recovery Rating System\nPolicy Framework for Loans for Food and Agriculture Investments in the AFF Industries\n\nCredit Portfolio Management\nCredit Concentration Risk Management\nCredit Limit Management System\nRisk-return assessment",
+    "question": "How does the Bank manage credit concentration risk in its food and agriculture business?",
+    "answer": "The Bank manages credit concentration risk in its food and agriculture business by employing cross-divisional approaches, setting a soft limit, monitoring under the Credit Limit Management System, and hedging through loan liquidation."
+  },
+  {
+    "sample_index": 2,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      14
+    ],
+    "context": "The Bank is a financial institution dedicated to supporting specific industries—the AFF industries—and the economic and cultural activities that are closely connected to everyday life—“food.” \n\nThe Bank’s Purpose is to foster the AFF industries and create a prosperous future for food and lifestyles, while also contributing to a sustainable global environment. The key is how to practice that mission and produce visible results. It is also important to measure the results and disclose them to get public feedback. \n\nThe Bank is deeply involved in the value chain of the food and AFF industries from upstream to downstream, including material procurement, production, processing, distribution, sales (including export), and consumption. In the Food and Agriculture Business, the Bank is building a network that can deliver high added value by supporting people at each stage of the chain and matching those persons accordingly.",
+    "question": "What is the Bank's approach to supporting the AFF industries and the food sector?",
+    "answer": "The Bank's approach to supporting the AFF industries and the food sector involves being deeply involved in the entire value chain from upstream to downstream, including material procurement, production, processing, distribution, sales (including export), and consumption. It aims to deliver high added value by building a network that supports and matches people at each stage of the chain."
+  },
+  {
+    "sample_index": 3,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      131
+    ],
+    "context": "FINANCIAL STATEMENTS  \nAs of March 31, 2021 Millions of Yen  \nContract Amount or Method of Hedges Type of Derivative Hedged Items Notional Amount Fair Value  \nTotal Over 1 Year  \nInterest Rate Swaps  \nDebentures ¥ 320,000 ¥ 200,000 ¥ 756  \nThe Deferral Method Interest Rate Swaps Yen-denominated Securities, Deposits and Others 8,059,185 7,312,908 (364,943)  \nLoans and Bills Discounted, The Accrual Interest Rate Swaps Yen-denominated Securities and Others 341,338 283,515 Note 2  \nTotal ¥ / ¥ / ¥(364,187)  \n\nCurrency-Related Derivative Instruments  \nAs of March 31, 2022 Millions of Yen Millions of U.S. Dollars  \nContract Amount or Method of Hedges Type of Derivative Hedged Items Notional Amount Fair Value  \nTotal Over 1 Year  \nCurrency Swaps Foreign Currency ¥15,706,728 ¥11,234,807 ¥(1,047,456) $128,343 $91,802 $ (8,559)  \nThe Deferral Method Securities and Forex Forward Others 4,081,435 — (238,620) 33,350 — (1,949)  \nTotal ¥ / ¥ / ¥(1,286,077) $ / $ / $(10,508)  \n\nAs of March 31, 2021 Millions of Yen  \nContract Amount or Method of Hedges Type of Derivative Hedged Items Notional Amount Fair Value  \nTotal Over 1 Year  \nCurrency Swaps Foreign Currency ¥15,826,273 ¥9,964,047 ¥(773,815)  \nThe Deferral Method Securities and Forex Forward Others 2,216,719 — (61,010)  \nTotal ¥ / ¥ / ¥(834,826)  \n\nStock-Related Derivative Instruments  \nThe Bank and its consolidated subsidiaries held no Stock-Related Derivative Instruments as of March 31, 2022 and 2021.  \nBond-Related Derivative Instruments  \nThe Bank and its consolidated subsidiaries held no Bond-Related Derivative Instruments as of March 31, 2022 and 2021.",
+    "question": "What was the fair value of the currency swaps held as of March 31, 2022?",
+    "answer": "The fair value of the currency swaps held as of March 31, 2022, was ¥(1,047,456)."
+  },
+  {
+    "sample_index": 4,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      176
+    ],
+    "context": "CAPITAL ADEQUACY  \nFiscal 2020 (Ended March 31, 2021)  \n(Millions of Yen, %)  \nExposures before CCF and Exposures post-CCF and  \nRWA RWA density  \nOn-balance Off-balance On-balance Off-balance  \nAsset classes  \nTotal credit risk assets subject to the Standardized Approach is ¥33.7 billion, which is not shown in these statements due to its extremely limited amount—only about 0.09% of the credit risk assets on a consolidated basis (¥35,342.9 billion).",
+    "question": "What percentage of the total credit risk assets on a consolidated basis does the Standardized Approach represent in fiscal 2020?",
+    "answer": "0.09%"
+  },
+  {
+    "sample_index": 5,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      131
+    ],
+    "context": "FINANCIAL STATEMENTS  \nAs of March 31, 2021 Millions of Yen  \nContract Amount or Method of Type of Derivative Hedged Items Notional Amount Fair  \nHedges Instruments Value  \nTotal Over 1 Year  \nInterest Rate Swaps  \nDebentures ¥ 320,000 ¥ 200,000 ¥ 756  \n(Rec.: Fix.-Pay.: Flt.)  \nThe Deferral Method Interest Rate Swaps Yen-denominated  \nSecurities, Deposits (Rec.:Flt.-Pay.: Fix.) and Others 8,059,185 7,312,908 (364,943)  \nLoans and Bills Discounted,  \nThe Accrual Interest Rate Swaps  \nYen-denominated  \nMethod (Rec.: Flt.-Pay.: Fix.)  \nSecurities and Others 341,338 283,515 Note 2  \nTotal ¥ / ¥ / ¥(364,187)  \n\nCurrency-Related Derivative Instruments  \nAs of March 31, 2022 Millions of Yen Millions of U.S. Dollars  \nContract Amount or Contract Amount or  \nMethod of Hedges Type of Derivative Hedged Items Notional Amount Fair Notional Amount Fair  \nInstruments Value Value  \nTotal Over 1 Year Total Over 1 Year  \nCurrency Swaps Foreign Currency ¥15,706,728 ¥11,234,807 ¥(1,047,456) $128,343 $91,802 $ (8,559)  \nThe Deferral Method Securities and Forex Forward Others 4,081,435 — (238,620) 33,350 — (1,949)  \nTotal ¥ / ¥ / ¥(1,286,077) $ / $ / $(10,508)  \n\nAs of March 31, 2021 Millions of Yen  \nContract Amount or Method of Type of Derivative Hedged Items Notional Amount Fair  \nHedges Instruments Value  \nTotal Over 1 Year  \nCurrency Swaps Foreign Currency ¥15,826,273 ¥9,964,047 ¥(773,815)  \nThe Deferral Method Securities and Forex Forward Others 2,216,719 — (61,010)  \nTotal ¥ / ¥ / ¥(834,826)  \n\nStock-Related Derivative Instruments  \nThe Bank and its consolidated subsidiaries held no Stock-Related Derivative Instruments as of March 31, 2022 and 2021.  \nBond-Related Derivative Instruments  \nThe Bank and its consolidated subsidiaries held no Bond-Related Derivative Instruments as of March 31, 2022 and 2021.",
+    "question": "What was the fair value of the currency-related derivative instruments as of March 31, 2022?",
+    "answer": "The fair value of the currency-related derivative instruments as of March 31, 2022, was ¥(1,286,077) million or $(10,508) million."
+  },
+  {
+    "sample_index": 6,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      221
+    ],
+    "context": "CAPITAL ADEQUACY  \n(Millions of Yen, %)  \nBasel III  \nItems As of March 31, 2022 As of March 31, 2021  \nCommon Equity Tier 1 capital ratio (non-consolidated) 17.85% 19.84%  \nTier 1 capital ratio (non-consolidated) 21.27% 23.22%  \nTotal capital ratio (non-consolidated) 21.27% 23.23%  \nNon-significant investments in the capital and other TLAC liabilities of other financial institutions that are below the thresholds for deduction 181,566 165,481  \nSignificant investments in the common stock of other financial institutions that are below the thresholds for deduction 17,555 17,055  \nProvisions included in Tier 2 capital: instruments and provisions  \nProvisions (general reserve for possible loan losses) 17 17  \nCap on inclusion of provisions (general reserve for possible loan losses) 98 91  \nCap for inclusion of provisions in Tier 2 under internal ratings-based approach 198,359 197,038  \nCurrent cap on Tier 2 instruments under phase-out arrangements — 153,600",
+    "question": "What were the changes in the Common Equity Tier 1 capital ratio from March 31, 2021, to March 31, 2022?",
+    "answer": "The Common Equity Tier 1 capital ratio decreased from 19.84% on March 31, 2021, to 17.85% on March 31, 2022."
+  },
+  {
+    "sample_index": 7,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      45
+    ],
+    "context": "The business environment surrounding financial institutions is changing radically. For the Bank to maintain its high soundness and continue to meet stakeholders’ expectations, the forward-looking recognition of risks and appropriate risk controls are increasingly important. \n\nThe Bank has introduced the Risk Appetite Framework (RAF) for business administration. Under the RAF, the Bank aims to achieve the goals of the management plan and foster a sound risk culture. \n\nThe Bank issues its Risk Appetite Statement and formulates a management plan based on it, identifying the “Top Risks” and analyzing scenarios of risk events. The Bank clarifies the expected return from the implementation of management strategies and business strategies, as well as the risk appetite.\n\nThe RAF optimizes the balance between risk and return by clarifying the Bank’s management strategies and expected return. The Bank sets Key Goal Indicators (KGIs) and Risk Appetite Indicators, monitors the status of management strategies, business strategies, expected return, and risk appetite, and reviews them if necessary. \n\nThe RAF is implemented with the PDCA cycle of the management plan, aiming for an optimal balance between risk and return while improving soundness and adjusting to changes in the surrounding environment.",
+    "question": "How does the Bank's Risk Appetite Framework (RAF) aim to optimize the balance between risk and return?",
+    "answer": "The Bank's Risk Appetite Framework (RAF) aims to optimize the balance between risk and return by clarifying its management strategies and expected return, setting Key Goal Indicators (KGIs) and Risk Appetite Indicators, monitoring the status of these strategies and indicators, and reviewing them if necessary. This is implemented with the PDCA cycle of the management plan to maintain soundness and adjust to environmental changes."
+  },
+  {
+    "sample_index": 8,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      96
+    ],
+    "context": "FINANCIAL STATEMENTS\n\nUnrecognized prior service cost is amortized over a certain period (10 years) within the employees’ average remaining service period using the straight-line method beginning in the fiscal year in which the difference has arisen. Unrecognized actuarial differences are amortized over a certain period (10 years) within the employees’ average remaining service period using the declining-balance method beginning in the fiscal year after the difference has arisen.\n\n“Cash and Cash Equivalents” in the consolidated statement of cash flows represents cash, non-interest bearing due from banks and due from the Bank of Japan in Cash and Due from Banks on the consolidated balance sheet.\n\nProfit Attributable to Owners of Parent per Share is computed based upon the weighted average number of shares outstanding during the period. The total dividends for lower dividend rate stocks and preferred stocks and the total special dividends are deducted from the numerator, the aggregate number of lower dividend rate stocks and preferred stocks is deducted from the denominator, respectively, in the calculation of Profit Attributable to Owners of Parent per Share.\n\nProfit and losses on cancellation of Investment Trust are accounted in “Interest and Dividends on Securities” on Profit and Loss Statement.\n\nReserve for Possible Loan Losses on the consolidated financial statements were ¥149,942 million ($1,225 million) and ¥134,983 million for the fiscal year ended March 31, 2022 and 2021, respectively. The Bank’s Reserve for Possible Loan Losses is calculated based on the determination of the debtor classification based on each debtor’s future debt repayment capacity through asset assessments, as well as a certain calculation method according to debtor classification. In calculating Reserve for Possible Loan Losses, the Bank reflects the risks identified based on future forecasts in order to maintain stable lending to other institutions regardless of economic fluctuations. The debtor’s future forecasts including its expected business performance are the key assumptions in determining the debtor classification.",
+    "question": "How is the Reserve for Possible Loan Losses calculated according to the debtor classification?",
+    "answer": "The Reserve for Possible Loan Losses is calculated based on the determination of the debtor classification, which is assessed through each debtor’s future debt repayment capacity and a certain calculation method according to debtor classification. The calculation reflects risks identified based on future forecasts, including expected business performance, to maintain stable lending regardless of economic fluctuations."
+  },
+  {
+    "sample_index": 9,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      240
+    ],
+    "context": "**Status of Capital and Shareholders (As of March 31, 2022)**\n\n**Common Stocks**\n- Total Stocks Owned: 40,151,988,300 (¥35,894,810,000)\n\n**Preferred Stocks**\n- Total Stocks Owned: 55,791,450\n\n**Trends in the Bank’s Capital (Millions of Yen)**\n- November 30, 1983: Increase 15,000, Capital after Increase 45,000\n- November 30, 1990: Increase 30,000, Capital after Increase 75,000\n- November 30, 1992: Increase 25,000, Capital after Increase 100,000\n- February 16, 1995: Increase 24,999, Capital after Increase 124,999\n- September 25, 1997: Increase 150,000, Capital after Increase 274,999\n- March 25, 1998: Increase 850,000, Capital after Increase 1,124,999\n- November 29, 2002: Increase 100,000, Capital after Increase 1,224,999\n- December 1, 2005: Increase 225,717, Capital after Increase 1,450,717\n- March 30, 2006: Increase 14,300, Capital after Increase 1,465,017\n- September 29, 2006: Increase 19,000, Capital after Increase 1,484,017\n- November 26, 2007: Increase 15,900, Capital after Increase 1,499,917\n- February 28, 2008: Increase 12,900, Capital after Increase 1,512,817\n- March 25, 2008: Increase 503,216, Capital after Increase 2,016,033\n- December 29, 2008: Increase 24,800, Capital after Increase 2,040,833\n- March 30, 2009: Increase 1,380,537, Capital after Increase 3,421,370\n- September 28, 2009: Increase 4,539, Capital after Increase 3,425,909\n- September 29, 2015: Increase 45,551, Capital after Increase 3,471,460\n- December 29, 2015: Increase 9,028, Capital after Increase 3,480,488\n- March 29, 2019: Increase 559,710, Capital after Increase 4,040,198",
+    "question": "What was the total capital of the bank after the increase on March 29, 2019?",
+    "answer": "The total capital of the bank after the increase on March 29, 2019, was 4,040,198 million yen."
+  },
+  {
+    "sample_index": 10,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      187
+    ],
+    "context": "CAPITAL ADEQUACY\n\nCorporate exposure (excluding SMEs exposure and specialized lending)\n- Total exposures: 494,154 million Yen\n- Average PD: 3.21%\n- Average LGD: 28.60%\n- Average maturity: 3.4 years\n- Average RWA density: 39.13%\n\nSMEs exposure\n- Total exposures: 144,744 million Yen\n- Average PD: 17.64%\n- Average LGD: 28.47%\n- Average maturity: 2.8 years\n- Average RWA density: 57.78%\n\nDebt purchased for corporate (Default risk)\n- Total exposures: 26,556 million Yen\n- Average PD: 0.05%\n- Average LGD: 30.35%\n- Average maturity: 2.4 years\n- Average RWA density: 13.01%",
+    "question": "What are the average probability of default (PD) and loss given default (LGD) for corporate exposures versus SMEs exposures?",
+    "answer": "For corporate exposures, the average probability of default (PD) is 3.21% and the average loss given default (LGD) is 28.60%. For SMEs exposures, the average PD is 17.64% and the average LGD is 28.47%."
+  },
+  {
+    "sample_index": 11,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      229
+    ],
+    "context": "CAPITAL ADEQUACY  \nComposition of Leverage Ratio Disclosure (Non-Consolidated)  \n(Millions of Yen, %)  \nAs of March 31, 2022 2021  \nOn-balance sheet exposures  \n1 On-balance sheet exposures before deducting adjustment items 85,307,424 84,753,357  \n1a Total assets reported in the non-consolidated balance sheet 86,365,459 86,182,296  \n1b The amount of assets that are deducted from the total assets reported in the non-consolidated balance sheet (except adjustment items) (–) 1,058,035 1,428,938  \n2 The amount of adjustment items pertaining to Tier 1 capital (–) 115,323 109,713  \n3 Total on-balance sheet exposures 85,192,101 84,643,644  \n\nExposures related to derivative transactions  \n4 Replacement cost multiplied by 1.4 associated with derivatives transactions, etc. 456,278 47,089  \n5 Potential future exposure multiplied by 1.4 associated with derivatives transactions, etc. 624,045 566,637  \n11 Total exposures related to derivative transactions 55,408 34,624  \n\nExposures related to repo transactions  \n12 The amount of assets related to repo transactions, etc. 297,210 1,092,671  \n14 The exposures for counterparty credit risk for repo transactions, etc. 1,355,351 974,949  \n16 Total exposures related to repo transactions, etc. 1,652,562 2,067,620  \n\nExposures related to off-balance sheet transactions  \n17 Notional amount of off-balance sheet transactions 3,091,183 2,931,029  \n19 Total exposures related to off-balance sheet transactions 1,244,933 1,109,695  \n\nLeverage ratio on a non-consolidated basis  \n20 The amount of capital (Tier 1 capital) 8,255,271 9,137,974  \n21 Total exposures 88,145,005 87,855,585  \n22 Leverage ratio on a non-consolidated basis 9.36% 10.40%  \n\nLeverage ratio on a non-consolidated basis (including the deposits with the Bank of Japan)  \nTotal exposures (including the deposits with the Bank of Japan) 105,145,914 106,911,402  \nLeverage ratio on a non-consolidated basis (including the deposits with the Bank of Japan) 7.85% 8.54%  \n\nThe Key Drivers of Material Changes Observed from the End of the Previous Reporting Period to the End of the Current Reporting Period  \nThe leverage ratio as of March 31, 2022, is lower than the ratio as of March 31, 2021, due to a",
+    "question": "What factors contributed to the decrease in the leverage ratio from March 31, 2021, to March 31, 2022?",
+    "answer": "The decrease in the leverage ratio from March 31, 2021, to March 31, 2022, was due to a reduction in Tier 1 capital from 9,137,974 million yen to 8,255,271 million yen, alongside an increase in total exposures from 87,855,585 million yen to 88,145,005 million yen."
+  },
+  {
+    "sample_index": 12,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      210
+    ],
+    "context": "CAPITAL ADEQUACY  \nFiscal 2020 (Ended March 31, 2021)  \n(Millions of Yen)  \nTotal RWA: 13,937  \nAdjustment of the amounts of risk-weighted assets given the regulatory required capital ratio at the end of the previous fiscal year: 45.21  \nMovement in risk levels: 1,297  \nForeign exchange movements: 14  \nOther: 76  \nRWA at end of reporting period: 6,386  \n\nMR3: IMA values for trading portfolios  \n(Millions of Yen)  \nAs of March 31, 2022  \nVaR (10 day 99%)  \nMaximum value: 306  \nAverage value: 49  \nMinimum value: 3  \nPeriod end: 8  \nStressed VaR (10 day 99%)  \nMaximum value: 192  \nAverage value: 95  \nMinimum value: 8  \nPeriod end: 8",
+    "question": "What were the total risk-weighted assets (RWA) reported at the end of the fiscal year 2020?",
+    "answer": "The total risk-weighted assets (RWA) reported at the end of the fiscal year 2020 were 6,386 million yen."
+  },
+  {
+    "sample_index": 13,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      138
+    ],
+    "context": "FINANCIAL STATEMENTS\n\nManagement is responsible for the preparation and fair presentation of these consolidated financial statements in accordance with accounting principles generally accepted in Japan, and for such internal control as management determines is necessary to enable the preparation of consolidated financial statements that are free from material misstatement, whether due to fraud or error.\n\nIn preparing the consolidated financial statements, management is responsible for assessing the Group’s ability to continue as a going concern and disclosing, as required by accounting principles generally accepted in Japan, matters related to going concern.\n\nAudit & Supervisory Board Member and Audit & Supervisory Board are responsible for overseeing the Group’s financial reporting process.\n\nOur objectives are to obtain reasonable assurance about whether the consolidated financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these consolidated financial statements.\n\nAs part of an audit in accordance with auditing standards generally accepted in Japan, we exercise professional judgment and maintain professional skepticism throughout the audit. We also:\n・ Identify and assess the risks of material misstatement of the consolidated financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion.\n・ Consider internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances for our risk assessments, while the purpose of the audit of the consolidated financial statements is not expressing an opinion on the effectiveness of the Group’s internal control.\n・ Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.",
+    "question": "What responsibilities does management have in the preparation and presentation of consolidated financial statements according to accounting principles generally accepted in Japan?",
+    "answer": "Management is responsible for the preparation and fair presentation of the consolidated financial statements in accordance with accounting principles generally accepted in Japan. They must ensure the statements are free from material misstatement due to fraud or error and assess the Group’s ability to continue as a going concern, disclosing related matters as required."
+  },
+  {
+    "sample_index": 14,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      187
+    ],
+    "context": "CAPITAL ADEQUACY\n\nCorporate exposure (excluding SMEs exposure and specialized lending)\n- Total exposures: 494,154 million Yen\n- Average RWA: 521,669 million Yen\n- Average PD: 3.21%\n- Average LGD: 28.60%\n- Average maturity: 3.4 years\n- Average obligors: 4,434\n\nSMEs exposure\n- Total exposures: 144,744 million Yen\n- Average RWA: 136,308 million Yen\n- Average PD: 17.64%\n- Average LGD: 28.47%\n- Average maturity: 2.8 years\n- Average obligors: 6,892\n\nDebt purchased for corporate (Default risk)\n- Total exposures: 0 million Yen\n- Average RWA: 26,556 million Yen\n- Average PD: 0.05%\n- Average LGD: 30.35%\n- Average maturity: 2.4 years\n- Average obligors: 4",
+    "question": "What are the average probability of default (PD) and loss given default (LGD) for corporate exposures, excluding SMEs and specialized lending?",
+    "answer": "The average probability of default (PD) for corporate exposures, excluding SMEs and specialized lending, is 3.21%, and the average loss given default (LGD) is 28.60%."
+  },
+  {
+    "sample_index": 15,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      161
+    ],
+    "context": "CAPITAL ADEQUACY  \nCC2: Explanation on Reconciliation between Balance Sheet Items and Regulatory Capital Elements (Consolidated)  \n(Millions of Yen)  \nAs of March 31, 2022  \nItems  \nConsolidated balance sheet amount  \n(Assets)  \nLoans and Bills Discounted 23,341,865  \nForeign Exchanges Assets 375,980  \nSecurities 46,748,553  \nMoney Held in Trust 10,867,985  \nTrading Assets 2,466  \nMonetary Claims Bought 387,819  \nCash and Due from Banks 18,140,525  \nOther Assets 3,178,992  \nTangible Fixed Assets 151,442  \nIntangible Fixed Assets 52,174  \nNet Defined-benefit Asset 119,913  \nDeferred Tax Assets 4,315  \nCustomers’ Liabilities for Acceptances and Guarantees 2,915,891  \nReserve for Possible Loan Losses (149,942)  \nTotal Assets 106,138,351  \n(Liabilities)  \nDeposits 64,009,893  \nNegotiable Certificates of Deposit 2,140,966  \nDebentures 360,280  \nBorrowed Money 4,924,931  \nPayables under Repurchase Agreements 19,327,671  \nOther Liabilities 4,150,052  \nNet Defined Benefit Liability 21,742  \nDeferred Tax Liabilities 295,753  \nAcceptances and Guarantees 2,915,891  \nTotal Liabilities 98,843,664",
+    "question": "What is the total amount of assets reported on the consolidated balance sheet as of March 31, 2022?",
+    "answer": "The total amount of assets reported on the consolidated balance sheet as of March 31, 2022, is 106,138,351 million yen."
+  },
+  {
+    "sample_index": 16,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      12
+    ],
+    "context": "MESSAGE FROM THE CFO  \nThe Bank’s Financial Management  \nFor our financial management, it is important to ensure the three elements: continuing “stable returns” to members, maintaining the “soundness” as a financial institution, and maximizing profitability to the extent the first two elements are achieved. We conduct financial management in consideration of the balance of these three elements.  \n\nFinancial and Economic Circumstances  \nDespite uncertainties concerning the spread of infection with COVID-19 variants and the risk of high inflation persisting, fiscal 2021 saw movements toward sustainable economic recovery, supported by fiscal and financial policy measures and the gradual spread of vaccination. Toward the end of fiscal 2021, drastic geopolitical changes led to a disruption of global supply chains, commodity price surges, and other effects, with concerns over the possibility of recessions under high inflation. As the normalization of business activities went on, the financial markets proceeded steadily.",
+    "question": "What are the three key elements emphasized by the CFO for the Bank's financial management?",
+    "answer": "Stable returns to members, maintaining soundness as a financial institution, and maximizing profitability."
+  },
+  {
+    "sample_index": 17,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      41
+    ],
+    "context": "```\nMANAGEMENT SYSTEMS\nSupervisory Committee Members (As of July 1, 2022)\n\nNAKAYA Toru\n- 2012 Director of THE JAPAN AGRICULTURAL NEWS\n- 2017 Chairman of JA Zenchu (current Representative Director and Chairman)\n- Member of the Nomination Committee of the Bank\n- Chairman of the Director Compensation Deliberation Committee of the Bank\n- Chairman of the Supervisory Committee of the Bank\n- 2022 Executive Advisor of JA Kinan\n- Executive Advisor of JA Wakayama Chuokai\n\nOKAWA Ryoichi\n- 2020 Representative Director and Chairman of JA Sagami\n- Representative Director and Chairman of JA Kanagawa Chuokai\n- Chairman of the Supervisory Committee of JA Kanagawa Shinnoren\n- Chairman of the Supervisory Committee of Kanagawa Kouseiren\n- Chairman of JA Zen-Noh Kanagawa Prefectural Headquarters Administrative Committee\n- Chairman of JA Zenkyoren Kanagawa Prefectural Headquarters Administrative Committee\n- Member of the Supervisory Committee of the Bank\n- Chair of National Council of JA Bank Representatives\n- Chairman of JA Bank Headquarters\n- Member of the Nomination Committee of the Bank\n- Member of the Supervisory Committee of JA Zenkyoren\n- Member of the Director Compensation Deliberation Committee of the Bank\n\nONIKI Haruto\n- 2014 Representative Director and Cooperative President of JA Fukuoka\n- 2016 Chairman of the Supervisory Committee of JA Fukuoka Shinnoren\n- 2020 Vice-Chair of National Council of JA Bank Representatives\n- Member of the Supervisory Committee of the Bank\n\nNAKAZAKI Kazuhisa\n- 2005 Representative Director and Cooperative President of JForest Kuzumaki\n- 2011 Representative Director and Chairman of JForest Iwate Moriren\n- 2021 Representative Director and Chairman of JForest Zenmoriren\n- Member of the Nomination Committee of the Bank\n- Member of the Director Compensation Deliberation Committee of the Bank\n- Member of the Supervisory Committee of the Bank\n\nONODERA Keisaku\n- 2020 Representative Director and Chairman of JA Iwate Chuokai\n- Chairman of the Supervisory Committee of JA Iwate Shinnoren\n- Representative Director and Chairman of JA Iwate Kouseiren\n- Chairman of JA Zen-Noh Iwate Prefectural Headquarters Administrative Committee\n- Chairman of JA Zenkyoren Iwate Prefectural Headquarters Administrative Committee\n- Director of THE JAPAN AGRICULTURAL NEWS\n- Member of the Nomination Committee of the Bank\n- Member of the Supervisory Committee of the Bank\n- Director of IE-NO-HIKARI ASSOCIATION\n```",
+    "question": "Who are the current members of the Supervisory Committee as of July 1, 2022?",
+    "answer": "The current members of the Supervisory Committee as of July 1, 2022, are NAKAYA Toru, OKAWA Ryoichi, ONIKI Haruto, NAKAZAKI Kazuhisa, and ONODERA Keisaku."
+  },
+  {
+    "sample_index": 18,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      63
+    ],
+    "context": "Principal Human Resource Programs\n\nGroup Training\n• Career development training: Foster an awareness of career development by taking an inventory of employee abilities and through self-analysis.\n• Management training: Acquire and improve knowledge and business skills needed for management, including leadership, junior staff development, vision making and work efficiency.\n\nEntry training for new employees\n• Managerial development training: Acquire and improve knowledge required for organizational management, division and branch management, etc.\n• The Bank Business School: Improve and deepen an understanding of basic business management theory and consulting abilities and build cross-departmental networks.\n\nPersonal Development Support\n• Financial support for online study, correspondence courses, gaining certifications outside the Bank and foreign language training: Support for employee self-directed career development by partially subsidizing various studies.\n\nOutside Studies\n• Graduate School of Business (managers program): Acquire advanced management skills at domestic and overseas universities.\n• Overseas study: Acquire specialized knowledge and a global perspective through attendance at an MBA or LL.M program.\n• Overseas branch trainee program: Develop a global perspective in junior staff by posting them at overseas branches.\n\nNew Employee Training\n• Workplace training program for new employees, instructor training, mentorship program.\n• Entry training, on-site training at JA, on-site training at agricultural corporations and overseas language training.\n\nOther\n• After-work training.\n• Lectures by specialists from cooperatives, fostering of awareness as employees of the cooperative system through staff workshops.\n• Business English language lessons.\n• e-Learning.",
+    "question": "What types of training programs are offered for employee development within the organization?",
+    "answer": "The organization offers the following training programs for employee development:\n\n1. Career development training\n2. Management training\n3. Managerial development training\n4. The Bank Business School\n5. Financial support for online study, correspondence courses, certifications, and foreign language training\n6. Graduate School of Business (managers program)\n7. Overseas study (MBA or LL.M program)\n8. Overseas branch trainee program\n9. Workplace training program for new employees\n10. Instructor training and mentorship program\n11. Entry training\n12. On-site training at JA and agricultural corporations\n13. Overseas language training\n14. After-work training\n15. Lectures by specialists\n16. Business English language lessons\n17. e-Learning"
+  },
+  {
+    "sample_index": 19,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      188
+    ],
+    "context": "Total 638,899 73,507 81.79% 699,021 5.84% 1.7 28.68% 3.3 288,131 41.21% 11,333 14,853",
+    "question": "What do the percentages and numbers in the snippet represent?",
+    "answer": "The snippet appears to present financial or statistical data, likely related to a company's performance or some form of analysis. The percentages and numbers likely represent the following:\n\n- \"81.79%\" could indicate a percentage of total completion or achievement.\n- \"5.84%\" might represent a growth rate or change.\n- \"1.7\" could be a ratio or multiplication factor.\n- \"28.68%\" might be a percentage of a particular category or group.\n- \"3.3\" could be another ratio or multiplication factor.\n- \"41.21%\" is likely another percentage related to a specific metric.\n- The numbers \"638,899,\" \"73,507,\" \"699,021,\" \"288,131,\" \"11,333,\" and \"14,853\" could represent values such as revenue, units, or other measurable quantities. \n\nWithout specific labels or additional context, these interpretations are broad."
+  },
+  {
+    "sample_index": 20,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      64
+    ],
+    "context": "The Bank respects diversity and works to raise awareness regarding human rights issues throughout the group, aiming to create a work environment where all directors and employees can participate actively. The Bank formulated an educational and enlightenment policy regarding the environment and human rights, conducting trainings for all directors and employees every year. To prevent harassment in the workplace, the Bank takes various measures such as appointing personnel in charge of human rights and setting up a harassment consultation hotline.\n\nTo expand the employment of people with disabilities, the Bank established Norinchukin Business Assist Co., Ltd., in December 2016. The Bank is striving to make a workplace where people with disabilities can engage in business duties with high morale and feel secure and rewarded.\n\nThe Bank received the Platinum Kurumin Certification for Childcare Support Company for its efforts to realize a work-life balance and support for balancing work with childrearing, such as providing maternity leave, a support program for employees who take childbirth and childcare leave, and a shortened working hour program for childcare. The Bank is promoting measures to introduce various initiatives for work-style reform such as flexible working hours, paid leave by the hour, certain intervals between work hours, staggered work hours, and teleworking. Additionally, efforts are made to increase the rate of women among new graduate hires and to build a network among female employees through Women Employee Career Forums.",
+    "question": "What initiatives has the Bank implemented to support diversity and inclusion in the workplace?",
+    "answer": "The Bank has implemented several initiatives to support diversity and inclusion, including conducting annual trainings on human rights and the environment for all directors and employees, appointing personnel in charge of human rights, and establishing a harassment consultation hotline. It has also expanded employment opportunities for people with disabilities by establishing Norinchukin Business Assist Co., Ltd. Additionally, the Bank promotes work-life balance through flexible working hours, paid leave by the hour, and teleworking, and supports childcare with maternity leave and shortened working hours. Efforts are also made to increase the rate of women among new graduate hires and to build networks among female employees through Women Employee Career Forums."
+  },
+  {
+    "sample_index": 21,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      91
+    ],
+    "context": "FINANCIAL STATEMENTS  \nNotes to the Consolidated Financial Statements  \nThe Norinchukin Bank and Subsidiaries  \n\n1. Basis of Presentation  \nThe consolidated financial statements have been prepared based on the accounting records maintained by The Norinchukin Bank (“the Bank”) and its consolidated subsidiaries in accordance with the provisions set forth in The Norinchukin Bank Act and in conformity with accounting principles and practices generally accepted in Japan.  \n\nCertain items presented in the consolidated financial statements filed with the Ministry of Agriculture, Forestry and Fisheries of Japan have been reclassified for the convenience of readers.  \n\nAmounts in U.S. dollars are included solely for the convenience of readers. The exchange rate of ¥122.38=U.S.$1, the approximate rate of exchange prevailing on March 31, 2022, has been used for translation purposes.  \n\nThe yen and U.S. dollars figures disclosed in the consolidated financial statements are expressed in millions of yen and millions of U.S. dollars, and have been rounded down.  \n\n2. Summary of Significant Accounting Policies  \n(1) Principles of Consolidation  \nScope of Consolidation  \nSubsidiaries are, in general, the companies in which the Bank 1) holds, directly and/or indirectly, more than 50% of the voting shares; 2) holds, directly and/or indirectly, 40% or more of the voting shares and, at the same time, exercises effective control over the decision-making body; or 3) holds more than 50% of the voting shares together with those entities that would vote or agree to vote with the Bank.  \n\nThe number of subsidiaries as of March 31, 2021 was 18, 17 of which were consolidated. The number of subsidiaries as of March 31, 2022 was 22, 21 of which were consolidated.  \n\nThe major consolidated subsidiaries are as follows:  \n- The Norinchukin Trust & Banking Co., Ltd.  \n- Kyodo Housing Loan Co., Ltd.  \n- Norinchukin Bank Europe N.V.  \n- Newly established “Norinchukin Capital Co., Ltd.”  \n\nThe major unconsolidated subsidiary is as follows:  \n- NORINCHUKIN INNOVATION FUND L.P.  \n\nThe unconsolidated subsidiary was excluded from the scope of consolidation, since its impact on the consolidated financial statements was not so material.  \n\nThe dates of the fiscal year-end of all consolidated subsidiaries are as follows:  \n- Closing date: December 31, 2021 Number of subsidiaries: 9  \n- Closing date: March 31, 2022 Number of subsidiaries: 12  \n\nThe necessary adjustments have been made to the financial statements for any significant transactions that took place between their respective closing dates and the date of the consolidated financial statements.",
+    "question": "What criteria does The Norinchukin Bank use to determine the scope of consolidation for its subsidiaries?",
+    "answer": "The Norinchukin Bank determines the scope of consolidation for its subsidiaries based on the following criteria: 1) the Bank holds, directly and/or indirectly, more than 50% of the voting shares; 2) the Bank holds, directly and/or indirectly, 40% or more of the voting shares and exercises effective control over the decision-making body; or 3) the Bank holds more than 50% of the voting shares together with those entities that would vote or agree to vote with the Bank."
+  },
+  {
+    "sample_index": 22,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      158
+    ],
+    "context": "CAPITAL ADEQUACY  \nCapital Ratio Information (Consolidated)  \nCC1: Composition of Capital (Consolidated)  \n(Millions of Yen, %)  \nBasel III Items As of March 31, 2022  As of March 31, 2021  \nCommon Equity Tier 1 capital: instruments and reserves  \nDirectly issued qualifying common share capital plus related capital surplus and retained earnings 6,158,431 6,056,587  \nof which: capital and capital surplus 4,015,219 4,015,219  \nof which: retained earnings 2,236,608 2,146,592  \nof which: cash dividends to be paid 93,395 105,223  \nAccumulated other comprehensive income and other disclosed reserves 984,488 1,732,008  \nCommon Equity Tier 1 capital: instruments and reserves (A) 7,142,919 7,788,596  \nCommon Equity Tier 1 capital: regulatory adjustments  \nTotal intangible assets (net of related tax liability, excluding those relating to mortgage servicing rights) 41,622 46,219  \nof which: goodwill (net of related tax liability) 3,248 3,563  \nof which: other intangible assets other than goodwill and mortgage servicing rights (net of related tax liability) 38,373 42,656  \nDeferred gains or losses on derivatives under hedge accounting 15,136 (212,099)  \nNet defined-benefit asset 86,637 81,029  \nCommon Equity Tier 1 capital: regulatory adjustments (B) 143,396 (83,854)  \nCommon Equity Tier 1 capital (CET1) 6,999,523 7,872,451  \nAdditional Tier 1 capital: instruments  \nDirectly issued qualifying Additional Tier 1 instruments plus related capital surplus 48,378 49,973  \nDirectly issued qualifying Additional Tier 1 instruments plus related capital surplus 1,316,972 1,316,972",
+    "question": "What were the Common Equity Tier 1 capital figures as of March 31, 2022, compared to March 31, 2021?",
+    "answer": "As of March 31, 2022, the Common Equity Tier 1 capital was 6,999,523 million yen, compared to 7,872,451 million yen as of March 31, 2021."
+  },
+  {
+    "sample_index": 23,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      30
+    ],
+    "context": "**Current State of Cooperative Activities**  \nJForest Group formulates its cooperative-wide campaign policy approximately every five years. Under the “JForest Vision 2030” campaign policy resolved in 2021, the Group focuses on three issues: “improve services for cooperative members,” “improve workers’ income and employment environments,” and “stabilize management by expanding business and enhancing efficiency.”  \n\n**The Norinchukin Bank Initiatives**  \nThe Bank provides financial support for JForest Group’s various initiatives and non-financial support such as safety improvement for forestry workers.  \n\n**Forest Rejuvenation Fund (FRONT80)/ Forest Management Fund**  \nThe Norinchukin 80th Anniversary Forest Rejuvenation Fund (FRONT80) was established in 2005 to promote activities to educate people on the multifaceted roles of forests. From fiscal 2015 to 2021, ¥529 million was provided nationwide, with subsidies totaling ¥942 million from fiscal 2005 to 2013.  \n\nFrom fiscal 2014, the Bank began soliciting applications for the Nochu Potential Forest Productivity Fund to promote efforts for the consolidation of facilities and provide a boost to forestry cooperatives. In the eight years from fiscal 2014 to 2021, the Bank received 248 applications and decided on ¥1,375 million in subsidies.  \n\nThe Bank aims to reduce the number of accidents due to collisions with cut or fallen trees. In fiscal 2020, the Bank produced Forestry Safety Education 360°VR, a safety educational tool utilizing high-precision live-action VR.",
+    "question": "What are the main focuses of the JForest Vision 2030 campaign policy?",
+    "answer": "The main focuses of the JForest Vision 2030 campaign policy are to improve services for cooperative members, improve workers’ income and employment environments, and stabilize management by expanding business and enhancing efficiency."
+  },
+  {
+    "sample_index": 24,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      28
+    ],
+    "context": "CURRENT STATE OF THE COOPERATIVE BANKING BUSINESS AND THE NORINCHUKIN BANK’S ROLE\n\nThe JF Marine Bank System consists of two pillars: \n- Framework for Bankruptcy Prevention\n- Comprehensive Strategies of JF Marine Bank\n\nThe JF Marine Bank has formulated the JF Marine Bank Medium-Term Strategies (fiscal 2019–2023) as its comprehensive strategies for JF, JF Shingyoren, and The Norinchukin Bank to conduct integrated operations as a professional fishery-dedicated financial institution. The pillars of these Medium-Term Strategies are to: \n1. Enhance its financial functions for the fishery industry and strengthen the contact point with fishery communities;\n2. Establish business operational and channel systems with a vision for the future;\n3. Implement initiatives to ensure the soundness of operations;\n4. Improve the common infrastructure systems.\n\nThrough our integrated efforts on these strategies, we will continue to offer fishery-related financial functions such as settlement functions for caught fish, etc., to coastal fishery operators and JF members.\n\nJF Marine Bank Medium-Term Strategies (fiscal 2019 through fiscal 2023):\n1. Enhance the financial functions for the fishery industry and strengthen the contact point with fishery communities.\n2. Establish business operational and channel systems with a vision for the future.\n3. Implement initiatives to ensure the soundness of operations.\n4. Improve the common infrastructure systems.",
+    "question": "What are the key pillars of the JF Marine Bank's Medium-Term Strategies for fiscal 2019-2023?",
+    "answer": "1. Enhance its financial functions for the fishery industry and strengthen the contact point with fishery communities.\n2. Establish business operational and channel systems with a vision for the future.\n3. Implement initiatives to ensure the soundness of operations.\n4. Improve the common infrastructure systems."
+  },
+  {
+    "sample_index": 25,
+    "pdf_file": "report_25.pdf",
+    "pages": [
+      223
+    ],
+    "context": "CAPITAL ADEQUACY  \n(Millions of Yen)  \nAs of March 31, 2022  \nDeposits: 64,019,836  \nTime deposits: 55,692,985  \nDeposits at notice: 10,629  \nOrdinary deposits: 3,298,602  \nCurrent deposits: 101,915  \nOther deposits: 4,915,703  \nNegotiable Certificates of Deposit: 2,140,966  \nDebentures: 363,780  \nTrading Liabilities: 1,692  \nBorrowed Money: 4,868,429  \nPayables under Repurchase Agreements: 19,327,671  \nShort-term Entrusted Liability: 684,692  \nOther Liabilities: 4,104,171  \nTotal Liabilities: 96,221,809  \nPaid-in Capital: 4,040,198  \nCommon equity: 4,015,198  \nPreferred stock: 24,999  \nCapital Surplus: 25,020",
+    "question": "What were the total liabilities reported as of March 31, 2022?",
+    "answer": "The total liabilities reported as of March 31, 2022, were 96,221,809 million yen."
+  }
+]
