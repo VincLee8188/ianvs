@@ -2,11 +2,11 @@ benchmarkingjob:
   # job name of bechmarking; string type;
   name: "benchmarkingjob"
   # the url address of job workspace that will reserve the output of tests; string type;
-  workspace: "./examples/llm_simple_qa/workspace"
+  workspace: "/home/icyfeather/project/ianvs/workspace"
 
   # the url address of test environment configuration file; string type;
   # the file format supports yaml/yml;
-  testenv: "./examples/llm_simple_qa/testenv/testenv.yaml"
+  testenv: "./examples/llm/singletask_learning_bench/simple_qa/testenv/testenv.yaml"
 
   # the configuration of test object
   test_object:
@@ -19,13 +19,13 @@ benchmarkingjob:
       - name: "simple_qa_singletask_learning"
         # the url address of test algorithm configuration file; string type;
         # the file format supports yaml/yml;
-        url: "./examples/llm_simple_qa/testalgorithms/gen/gen_algorithm.yaml"
+        url: "./examples/llm/singletask_learning_bench/simple_qa/testalgorithms/gen/gen_algorithm.yaml"
 
   # the configuration of ranking leaderboard
   rank:
     # rank leaderboard with metric of test case's evaluation and order ; list type;
     # the sorting priority is based on the sequence of metrics in the list from front to back;
-    sort_by: [ { "score": "descend" } ]
+    sort_by: [ { "acc": "descend" } ]
 
     # visualization configuration
     visualization:
@@ -57,7 +57,7 @@ benchmarkingjob:
       # currently the options of value are as follows:
       #   1> "all": select all metrics in the leaderboard;
       #   2> metrics in the leaderboard, e.g., "f1_score"
-      metrics: [ "score" ]
+      metrics: [ "acc" ]
 
     # model of save selected and all dataitems in workspace; string type;
     # currently the options of value are as follows:
